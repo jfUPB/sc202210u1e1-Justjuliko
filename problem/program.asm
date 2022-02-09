@@ -1,6 +1,6 @@
-// COLOCO AQUÍ TU NOMBRE COMPLETO
-// COLOCA AQUÍ TU ID
-// COLOCA AQUÍ TU CORREO ELECTRÓNICO
+// Julio Cesar Echavarria Norena
+// 000419350
+// julio.echavarria@upb.edu.co
 (START)
     @START
     0;JMP
